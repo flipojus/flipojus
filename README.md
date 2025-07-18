@@ -58,7 +58,7 @@ This GitHub contains projects I’ve worked on or contributed to, showing my foc
 
 ## 💼 Professional Experience
 
-- ****Bioinformatics Engineer**  
+- **Bioinformatics Engineer**  
   *Institut Cochin, Cutaneous Biology Team – Paris, France*  
   *November 2023 – Present*
   - Bioinformatics support in skin biology research.
