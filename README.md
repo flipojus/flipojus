@@ -96,9 +96,11 @@ This GitHub contains projects I’ve worked on or contributed to, showing my foc
   - Molecular biology: nucleic acid extraction and PCR/RT-qPCR on automaton
   - Serology: preparation of quality controls, immunochemiluminescence, management of serum banks, immunoblots
 
-- **Sterilization Agent (Summer Job)**  
+- **Sterilization Agent**  
   *Foch Hospital – Suresnes, France*  
   *July 2016*
+  - Validated sterilization and washing cycles, managed drying of medical instruments, and maintained traceability records
+  - Performed sterile packaging of medical equipment using pouches and sterilization wraps.
 
 ## 📚 Publications
 
