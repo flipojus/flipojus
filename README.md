@@ -113,9 +113,9 @@ This GitHub contains projects I’ve worked on or contributed to, showing my foc
   *Bone Res* 10, 8 - **2022**.
 
 ### Posters
-- **GreenBIM : Environmental impact of Bioinformatics**  
+- **[GreenBIM: Environmental impact of Bioinformatics](https://doi.org/10.14293/S2199-1006.1.SOR-.PPWHCXV.v1)**  
   Asmae Bachr, Alizée Bardon, Sara Bencheikh, Fiona Bottin, **Justine Flipo**, Coline Gardou, Sidonie Halluin, Bryce Leterrier, Meije Mathé, Louis Ollivier, et al.  
-  Preprint, 26 January 2023. [DOI: 10.14293/S2199-1006.1.SOR-.PPWHCXV.v1](https://doi.org/10.14293/S2199-1006.1.SOR-.PPWHCXV.v1)  
+  Preprint, 26 January 2023. 
   *Collaborative student project during Master’s program*
 - **Prediction of the impact of protein interactions on the production yield and analytical characteristics of complex antibodies**  
   **Justine Flipo¹²**, Cendrine Lemoine¹, Alessandro Masiero¹, Pierrick Rival¹, Catherine Prades¹  
