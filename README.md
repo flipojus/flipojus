@@ -106,17 +106,30 @@ This GitHub contains projects I’ve worked on or contributed to, showing my foc
 
 ### Articles
 - **[Low-Dose Infigratinib increases bone growth and corrects growth plate abnormalities in an achondroplasia mouse model](https://doi.org/10.1093/jbmr/zjae051)**
-  Authors: Demuynck B, Flipo J, Kaci N, Dambkowski C, Paull M, Muslimova E, Shah BP, Legeai-Mallet L. 
+  Authors: Demuynck B, **Flipo J**, Kaci N, Dambkowski C, Paull M, Muslimova E, Shah BP, Legeai-Mallet L. 
   *J Bone Miner Res.* **2024 Jul 23**;39(6):765-774.
 - **[Theobroma cacao improves bone growth by modulating defective ciliogenesis in a mouse model of achondroplasia](https://doi.org/10.1038/s41413-021-00177-7)**
-  Authors: Martin L, Kaci N, Benoist-Lasselin C, Mondoloni M, Decaudaveine S, Estibals V, Cornille M, Loisay L, Flipo J, Demuynck B, de la Luz Cádiz-Gurrea M, Barbault F, Fernández-Arroyo S, Schibler L, Segura-Carretero A, Dambroise E, Legeai-Mallet L. 
+  Authors: Martin L, Kaci N, Benoist-Lasselin C, Mondoloni M, Decaudaveine S, Estibals V, Cornille M, Loisay L, **Flipo J**, Demuynck B, de la Luz Cádiz-Gurrea M, Barbault F, Fernández-Arroyo S, Schibler L, Segura-Carretero A, Dambroise E, Legeai-Mallet L. 
   *Bone Res* 10, 8 - **2022**.
+
+### Posters
+- **GreenBIM : Environmental impact of Bioinformatics**  
+  Asmae Bachr, Alizée Bardon, Sara Bencheikh, Fiona Bottin, **Justine Flipo**, Coline Gardou, Sidonie Halluin, Bryce Leterrier, Meije Mathé, Louis Ollivier, et al.  
+  Preprint, 26 January 2023. [DOI: 10.14293/S2199-1006.1.SOR-.PPWHCXV.v1](https://doi.org/10.14293/S2199-1006.1.SOR-.PPWHCXV.v1)  
+  *Collaborative student project during Master’s program*
+- **Prediction of the impact of protein interactions on the production yield and analytical characteristics of complex antibodies**  
+  **Justine Flipo¹²**, Cendrine Lemoine¹, Alessandro Masiero¹, Pierrick Rival¹, Catherine Prades¹  
+    ¹Sanofi Research and Development, Vitry-sur-Seine, France  
+    ²Master’s Degree in Bioinformatics, University of Rouen Normandy  
+  *Poster presented during apprenticeship, **2022** (not published)*
+
 
 ## 📜 Certifications
 
 - Use of the HPC resource iPOP-UP@RPBS with SLURM (2025)
 - MOOC NGS & Cancer 2024 - Single Cell (2024)
 - Training in experimental procedures on rodents (2019)
+- TOIEC : 815/990 (2018)
 
 ## 🤝 Volunteering
 
