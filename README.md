@@ -115,7 +115,7 @@ This GitHub contains projects I’ve worked on or contributed to, showing my foc
 ### Posters
 - **[GreenBIM: Environmental impact of Bioinformatics](https://doi.org/10.14293/S2199-1006.1.SOR-.PPWHCXV.v1)**  
   Asmae Bachr, Alizée Bardon, Sara Bencheikh, Fiona Bottin, **Justine Flipo**, Coline Gardou, Sidonie Halluin, Bryce Leterrier, Meije Mathé, Louis Ollivier, et al.    
-  Preprint, 26 January 2023.  
+  Preprint, **26 January 2023**.  
   *Collaborative student project during Master’s program*  
 - **Prediction of the impact of protein interactions on the production yield and analytical characteristics of complex antibodies**    
   **Justine Flipo**, Cendrine Lemoine, Alessandro Masiero, Pierrick Rival, Catherine Prades  
