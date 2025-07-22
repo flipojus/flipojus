@@ -105,12 +105,12 @@ This GitHub contains projects I’ve worked on or contributed to, showing my foc
 ## 📚 Publications
 
 ### Articles
-- **[Theobroma cacao improves bone growth by modulating defective ciliogenesis in a mouse model of achondroplasia](https://doi.org/10.1038/s41413-021-00177-7)**
-  Authors: Martin L, Kaci N, Benoist-Lasselin C, Mondoloni M, Decaudaveine S, Estibals V, Cornille M, Loisay L, Flipo J, Demuynck B, de la Luz Cádiz-Gurrea M, Barbault F, Fernández-Arroyo S, Schibler L, Segura-Carretero A, Dambroise E, Legeai-Mallet L. 
-  *Bone Res* 10, 8 - **2022**.
 - **[Low-Dose Infigratinib increases bone growth and corrects growth plate abnormalities in an achondroplasia mouse model](https://doi.org/10.1093/jbmr/zjae051)**
   Authors: Demuynck B, Flipo J, Kaci N, Dambkowski C, Paull M, Muslimova E, Shah BP, Legeai-Mallet L. 
   *J Bone Miner Res.* **2024 Jul 23**;39(6):765-774.
+- **[Theobroma cacao improves bone growth by modulating defective ciliogenesis in a mouse model of achondroplasia](https://doi.org/10.1038/s41413-021-00177-7)**
+  Authors: Martin L, Kaci N, Benoist-Lasselin C, Mondoloni M, Decaudaveine S, Estibals V, Cornille M, Loisay L, Flipo J, Demuynck B, de la Luz Cádiz-Gurrea M, Barbault F, Fernández-Arroyo S, Schibler L, Segura-Carretero A, Dambroise E, Legeai-Mallet L. 
+  *Bone Res* 10, 8 - **2022**.
 
 ## 📜 Certifications
 
