@@ -105,21 +105,21 @@ This GitHub contains projects I’ve worked on or contributed to, showing my foc
 ## 📚 Publications
 
 ### Articles
-- **[Low-Dose Infigratinib increases bone growth and corrects growth plate abnormalities in an achondroplasia mouse model](https://doi.org/10.1093/jbmr/zjae051)**
-  Authors: Demuynck B, **Flipo J**, Kaci N, Dambkowski C, Paull M, Muslimova E, Shah BP, Legeai-Mallet L. 
-  *J Bone Miner Res.* **2024 Jul 23**;39(6):765-774.
-- **[Theobroma cacao improves bone growth by modulating defective ciliogenesis in a mouse model of achondroplasia](https://doi.org/10.1038/s41413-021-00177-7)**
-  Authors: Martin L, Kaci N, Benoist-Lasselin C, Mondoloni M, Decaudaveine S, Estibals V, Cornille M, Loisay L, **Flipo J**, Demuynck B, de la Luz Cádiz-Gurrea M, Barbault F, Fernández-Arroyo S, Schibler L, Segura-Carretero A, Dambroise E, Legeai-Mallet L. 
-  *Bone Res* 10, 8 - **2022**.
+- **[Low-Dose Infigratinib increases bone growth and corrects growth plate abnormalities in an achondroplasia mouse model](https://doi.org/10.1093/jbmr/zjae051)**  
+  Authors: Demuynck B, **Flipo J**, Kaci N, Dambkowski C, Paull M, Muslimova E, Shah BP, Legeai-Mallet L.   
+  *J Bone Miner Res.* **2024 Jul 23**;39(6):765-774.  
+- **[Theobroma cacao improves bone growth by modulating defective ciliogenesis in a mouse model of achondroplasia](https://doi.org/10.1038/s41413-021-00177-7)**  
+  Authors: Martin L, Kaci N, Benoist-Lasselin C, Mondoloni M, Decaudaveine S, Estibals V, Cornille M, Loisay L, **Flipo J**, Demuynck B, de la Luz Cádiz-Gurrea M, Barbault F, Fernández-Arroyo S, Schibler L, Segura-Carretero A, Dambroise E, Legeai-Mallet L.   
+  *Bone Res* 10, 8 - **2022**.  
 
 ### Posters
 - **[GreenBIM: Environmental impact of Bioinformatics](https://doi.org/10.14293/S2199-1006.1.SOR-.PPWHCXV.v1)**  
-  Asmae Bachr, Alizée Bardon, Sara Bencheikh, Fiona Bottin, **Justine Flipo**, Coline Gardou, Sidonie Halluin, Bryce Leterrier, Meije Mathé, Louis Ollivier, et al.  
-  Preprint, 26 January 2023. 
-  *Collaborative student project during Master’s program*
-- **Prediction of the impact of protein interactions on the production yield and analytical characteristics of complex antibodies**  
-  **Justine Flipo**, Cendrine Lemoine, Alessandro Masiero, Pierrick Rival, Catherine Prades
-  *Poster presented during apprenticeship in Sanofi Research and Development, Vitry-sur-Seine (France), **2022** (not published)*
+  Asmae Bachr, Alizée Bardon, Sara Bencheikh, Fiona Bottin, **Justine Flipo**, Coline Gardou, Sidonie Halluin, Bryce Leterrier, Meije Mathé, Louis Ollivier, et al.    
+  Preprint, 26 January 2023.  
+  *Collaborative student project during Master’s program*  
+- **Prediction of the impact of protein interactions on the production yield and analytical characteristics of complex antibodies**    
+  **Justine Flipo**, Cendrine Lemoine, Alessandro Masiero, Pierrick Rival, Catherine Prades  
+  *Poster presented during apprenticeship in Sanofi Research and Development, Vitry-sur-Seine (France), **2022** (not published)*  
 
 
 ## 📜 Certifications
