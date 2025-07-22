@@ -118,9 +118,9 @@ This GitHub contains projects I’ve worked on or contributed to, showing my foc
   Preprint, 26 January 2023. 
   *Collaborative student project during Master’s program*
 - **Prediction of the impact of protein interactions on the production yield and analytical characteristics of complex antibodies**  
-  **Justine Flipo<sup>1,2</sub>**, Cendrine Lemoine<sup>1</sub>, Alessandro Masiero<sup>1</sub>, Pierrick Rival<sup>1</sub>, Catherine Prades<sup>1</sub>  
-    <sup>1</sub>Sanofi Research and Development, Vitry-sur-Seine, France  
-    <sup>2</sub>Master’s Degree in Bioinformatics, University of Rouen Normandy  
+  **Justine Flipo<sup>1,2</sup>**, Cendrine Lemoine<sup>1</sup>, Alessandro Masiero<sup>1</sup>, Pierrick Rival<sup>1</sup>, Catherine Prades<sup>1</sup>  
+    <sup>1</sup>Sanofi Research and Development, Vitry-sur-Seine, France  
+    <sup>2</sup>Master’s Degree in Bioinformatics, University of Rouen Normandy  
   *Poster presented during apprenticeship, **2022** (not published)*
 
 
