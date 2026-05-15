@@ -16,6 +16,14 @@ This GitHub contains projects I’ve worked on or contributed to, showing my foc
 
 ## 🔧 Skills & Tools
 
+### Bioinformatics
+- RNA-Seq / Single-cell RNA-Seq analysis
+- ChIP-Seq analysis
+- Variant calling and annotation
+- High-Performance Computing (using SLURM)
+- Programming: Python, R, bash, SQL, HTML/CSS and more
+- Pipeline development and workflow management (Snakemake, git)
+  
 ### Experimental Biology
 - Cell culture
 - Protein and RNA extraction
@@ -24,17 +32,9 @@ This GitHub contains projects I’ve worked on or contributed to, showing my foc
 - Histological and immunohistochemical staining
 - Mouse model experimentation
 
-### Bioinformatics
-- RNA-Seq / Single-cell RNA-Seq analysis
-- ChIP-Seq analysis
-- Variant calling and annotation
-- High-Performance Computing (using SLURM)
-- Programming: Python, R, bash and more
-- Pipeline development and workflow management (Snakemake, git)
-
 ### Soft Skills
 - Organized and detail-oriented
-- Curious and Proactive
+- Curious
 - Good listener and Strong collaborative spirit
 
 ### Languages
@@ -61,7 +61,10 @@ This GitHub contains projects I’ve worked on or contributed to, showing my foc
 - **Bioinformatics Engineer**  
   *Institut Cochin, Cutaneous Biology Team – Paris, France*  
   *November 2023 – Present*
-  - Bioinformatics support in skin biology research.
+  - RNA-seq analysis (bulk and single-cell): from raw data to biological interpretation.
+    Including: quality control, alignment, quantification, differential expression, functional enrichment analysis (signaling pathways, GO Terms, etc.)
+  - Development and use of reproducible pipelines on HPC computing clusters (with SLURM)
+  - Support for biologists in skin biology research, presentation of results, and contribution to the writing and publication of scientific papers.
 
 - **Bioinformatics Intern**  
   *Leiden University Medical Center, Mahfouz Lab – Leiden, The Netherlands*  
@@ -138,4 +141,5 @@ This GitHub contains projects I’ve worked on or contributed to, showing my foc
 
 ## 📫 Contact
 
-- **🔗 LinkedIn:** [linkedin.com/in/justine-flipo](https://www.linkedin.com/in/justine-flipo)
+- **👤 LinkedIn:** [linkedin.com/in/justine-flipo](https://www.linkedin.com/in/justine-flipo)
+- **🌱 ORCID:** [https://orcid.org/0000-0002-9261-7002](https://orcid.org/0000-0002-9261-7002)
