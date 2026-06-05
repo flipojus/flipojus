@@ -108,6 +108,9 @@ This GitHub contains projects I’ve worked on or contributed to, showing my foc
 ## 📚 Publications
 
 ### Articles
+- **[Peripheral serotonin regulates epidermal differentiation and dermal homeostasis](https://doi.org/10.1016/j.jid.2026.04.043)**  
+  Authors: Matar S, Petit A, Mansour N, **Flipo J**, Gendrot B, Kanaan P, Fouquet G, Gaillard R, Aractingi S, Oulès B.
+  *Journal of Investigative Dermatology* **2026 June** 
 - **[Low-Dose Infigratinib increases bone growth and corrects growth plate abnormalities in an achondroplasia mouse model](https://doi.org/10.1093/jbmr/zjae051)**  
   Authors: Demuynck B, **Flipo J**, Kaci N, Dambkowski C, Paull M, Muslimova E, Shah BP, Legeai-Mallet L.   
   *J Bone Miner Res.* **2024 Jul 23**;39(6):765-774.  
